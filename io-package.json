@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "scheppach-roboticmower",
+    "name": "homgar",
     "version": "0.0.1",
     "news": {
       "0.0.1": {
@@ -17,34 +17,34 @@
         "zh-cn": "首次出版"
       }
     },
-    "title": "Scheppach Robotic Mower",
+    "title": "homgar",
     "titleLang": {
-      "en": "Scheppach Robotic Mower",
-      "de": "Scheppach Robotermäher",
-      "ru": "Роботизированная косилка Scheppach",
-      "pt": "Robô Cortador Scheppach",
-      "nl": "Scheppach robotmaaier",
-      "fr": "Robot Tondeuse Scheppach",
-      "it": "Robot rasaerba Scheppach",
-      "es": "Cortacésped robótico Scheppach",
-      "pl": "Kosiarka automatyczna Scheppach",
-      "uk": "Роботизована косарка Scheppach",
-      "zh-cn": "Scheppach 机器人割草机"
+      "en": "homgar",
+      "de": "homgar",
+      "ru": "homgar",
+      "pt": "homgar",
+      "nl": "homgar",
+      "fr": "homgar",
+      "it": "homgarh",
+      "es": "homgar",
+      "pl": "homgar",
+      "uk": "homgar",
+      "zh-cn": "homgar"
     },
     "desc": {
       "en": "Adapter for Scheppach robotic mowers",
       "de": "Adapter für Scheppach Robotermäher",
-      "ru": "Адаптер для косилок-роботов Scheppach",
-      "pt": "Adaptador para robôs cortadores de grama Scheppach",
-      "nl": "Adapter voor Scheppach robotmaaiers",
-      "fr": "Adaptateur pour robots tondeuses Scheppach",
-      "it": "Adattatore per robot rasaerba Scheppach",
-      "es": "Adaptador para cortacéspedes robóticos Scheppach",
-      "pl": "Adapter do kosiarek automatycznych Scheppach",
-      "uk": "Адаптер для роботизованих косарок Scheppach",
-      "zh-cn": "Scheppach 机器人割草机适配器"
+      "ru": "Адаптер для homgar",
+      "pt": "Adaptador para homgar",
+      "nl": "Adapter voor homgar",
+      "fr": "Adaptateur pour homgar",
+      "it": "Adattatore per homgar",
+      "es": "Adaptador para homgar",
+      "pl": "Adapter do homgar",
+      "uk": "Адаптер для homgar",
+      "zh-cn": "homgar"
     },
-    "authors": ["TA2k <tombox2020@gmail.com>"],
+    "authors": ["TheHawk588 <thehawk99@gmail.com>"],
     "keywords": ["scheppach", "mower"],
     "license": "MIT",
     "platform": "Javascript/Node.js",
@@ -52,7 +52,7 @@
     "icon": "scheppach-roboticmower.png",
     "enabled": true,
     "extIcon": "https://raw.githubusercontent.com/TA2k/ioBroker.scheppach-roboticmower/main/admin/scheppach-roboticmower.png",
-    "readme": "https://github.com/TA2k/ioBroker.scheppach-roboticmower/blob/main/README.md",
+    "readme": "https://github.com/TheHawk588/ioBroker.homgar/blob/main/README.md",
     "loglevel": "info",
     "mode": "daemon",
     "type": "garden",
