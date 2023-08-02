@@ -67,7 +67,7 @@ class ScheppachRoboticmower extends utils.Adapter {
     await this.requestClient({
       method: "post",
       maxBodyLength: Infinity,
-      url: "http://server.sk-robot.com/api/auth/oauth/token",
+      url: "http://region3.homgarus.com/api/auth/oauth/token", // url: "http://server.sk-robot.com/api/auth/oauth/token",
       headers: {
         "Accept-Language": "de-de",
         Authorization: "Basic YXBwOmFwcA==",
